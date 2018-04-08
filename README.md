@@ -5,7 +5,7 @@ ECS 129 Project 4;
 
 By: Munir Nur and Zaid Al Rakabi
 
-Program to test how similar protein sequences are using the BL62 matrix and kernel method for comparing sequences developed by Smale et al. For further information on how the algorithm works and how we tested it read our paper: Comparing Protein Sequences using String Kernels. This is a work in progress.
+Program implemented in C++ to test how similar protein sequences are using the BL62 matrix and kernel method for comparing sequences developed by Smale et al. For further information on how the algorithm works and how we tested it read our paper: Comparing Protein Sequences using String Kernels. This is a work in progress.
 
 	(note: may need to run on a *nix based computers for accurate distance floating-point computation)
 
