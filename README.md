@@ -1,7 +1,6 @@
 # protein-sequence-kernel
 
 # Comparing Protein Sequences using String Kernels 
-ECS 129 Project 4; 
 
 By: Munir Nur and Zaid Al Rakabi
 
