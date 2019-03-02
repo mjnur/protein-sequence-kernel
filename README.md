@@ -12,7 +12,7 @@ To compile:
 	type "g++ kernel.cpp" into the command line
 
 
-[<img src="https://ibb.co/D935D8t">](https://ibb.co/)
+[<img src="https://ibb.co/D935D8t">](https://ibb.co/D935D8t)
 
 To run:
 	type "./a.out bl62.txt 0.01 sequences/(sequence 1 filename) sequences/(sequence 2 filename)" into the command line
