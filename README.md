@@ -11,8 +11,8 @@ Program implemented in C++ to test how similar protein sequences are using the B
 To compile:
 	type "g++ kernel.cpp" into the command line
 
-   [![Creative Commons License](https://i.ibb.co/qNbkMWd/pic1-contra.png)](https://ibb.co/D935D8t)
-    licenses/by-nc-nd/3.0/)
+   [![our_image](https://i.ibb.co/qNbkMWd/pic1-contra.png)](https://ibb.co/D935D8t)
+
     
 
 
