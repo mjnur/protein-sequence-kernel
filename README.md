@@ -13,7 +13,7 @@ To compile:
 
    [![our_image](https://i.ibb.co/qNbkMWd/pic1-contra.png)](https://ibb.co/D935D8t)
 
-(google.com)[google.com]
+google.com
     
 
 
